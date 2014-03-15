@@ -1,3 +1,3 @@
 $ cat .gitignore
 ohtu-viikko1/*[xxx]
-target/
+ohtu-viikko1/target/
