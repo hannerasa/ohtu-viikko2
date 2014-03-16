@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+	<head>
+	<style type="text/css">
+	p[class="ingressi"] {color: blue; }
+
+		
+
+	</head>
+		
+	
+
+	<body>
+
+
+body {
+        		font-family: Helvetica, Arial, sans-serif;
+      			background-color: #efc;
+        		margin-left: 4em;
+        		margin-right: 20%;
+		}
+
+			h1 {
+       				border-bottom: thin solid gray;
+			}
+
+</style>
+		
+
+	<section>	
+		<h1>Hannelen sivu</h1>
+
+		<section>
+			<h1> Hannelen harjoitustehtävä</h1>
+			<h1> otsikko 3 </h1>
+
+			<section>
+				<h1> otsikko 4 </h1>
+			</section>
+
+		</section>
+	</section>
+
+		<p class="ingressi"> Tervetuloa Hannelen harjoitustehtävän sivuille :-) </p>
+
+		<p> Tässä tehtävässä harjoitellaan html sivun tekemistä</p>
+
+		<h2> Opiskelen tietojenkäsittelytiedettä koska:</h2>
+
+		<ul>
+			<li>Olen ollut alalla töissä 15 vuotta, tällä hetkellä työskentelen IT yksikössä senior projektipäällikkönä.</li>
+			<li>Haluan suorittaa yliopistotasoisen tutkinnon</li>
+			<li>Olen opiskellut Avoimen Yliopiston puolella Tietojenkäsittelytieteen- ja Johtamisen perusainekokonaisuudet </li>
+			<li>Käpistely on vaan niin kivaa!</li>
+		</ul>
+
+ 		<img src="http://www.cs.helsinki.fi/u/hanneras/kaverukset.jpg" width="300" height="240" alt="Omat kissa kaverukset">
+	</body>
+</html>
