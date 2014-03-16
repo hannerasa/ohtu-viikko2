@@ -1,0 +1,16 @@
+<style type="text/css">
+	p[class="ingressi"] {color: blue; }
+	h1[class="alaviiva"]{border-bottom: thin solid gray;}
+		
+	</head>
+		
+	<body>
+
+		body {
+        		font-family: Helvetica, Arial, sans-serif;
+      			background-color: #efc;
+        		margin-left: 4em;
+        		margin-right: 20%;
+		}
+			
+</style>
